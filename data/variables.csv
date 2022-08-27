@@ -1,0 +1,13 @@
+dataset,RH700,RH850,RH900,RH950,EIS,LTS,SST,W500,AOD,re,LPC,COD,CWP,Nd,precipitation,precipitation_T30,precipitation_T60,timestamp,lats,lons
+four_outputs_liqcf_atlantic,RH700,RH850,RH900,,EIS,LTS,whoi_sst,w500,tot_aod,l_re,liq_pc,cod,cwp,,precip,,,timestamp,lats,lons
+four_outputs_liqcf_pacific,RH700,RH850,RH900,,EIS,LTS,whoi_sst,w500,tot_aod,l_re,liq_pc,cod,cwp,,precip,,,timestamp,lats,lons
+MERRA_25kmres_2003_08,MERRA_RH700,MERRA_RH850,,MERRA_RH950,,MERRA_LTS,ERA_sst,MERRA_W500,MERRA_aod,Cloud_Effective_Radius,,Cloud_Optical_Thickness,Cloud_Water_Path,Nd,imerg_precip,imerg_precip_T30,imerg_precip_T60,dates,lats,lons
+MERRA_25kmres_2003,MERRA_RH700,MERRA_RH850,,MERRA_RH950,,MERRA_LTS,ERA_sst,MERRA_W500,MERRA_aod,Cloud_Effective_Radius,,Cloud_Optical_Thickness,Cloud_Water_Path,Nd,imerg_precip,imerg_precip_T30,imerg_precip_T60,dates,lats,lons
+SEP_2003_low_resolution,RH700,RH850,,,,LTS,sst,w500,MERRA_tot_aod,Cloud_Effective_Radius,,Cloud_Optical_Thickness,Cloud_Water_Path,,imerg_precip,,,date,lats,lons
+Cali_2003_low_resolution,RH700,RH850,,,,LTS,sst,w500,MERRA_tot_aod,Cloud_Effective_Radius,,Cloud_Optical_Thickness,Cloud_Water_Path,,imerg_precip,,,date,lats,lons
+SA_2003_low_resolution,RH700,RH850,,,,LTS,sst,w500,MERRA_tot_aod,Cloud_Effective_Radius,,Cloud_Optical_Thickness,Cloud_Water_Path,,imerg_precip,,,date,lats,lons
+lowres_CA_2003,RH700,RH850,,,,LTS,whoi_sst,w500,tot_aod,l_re,,cod,cwp,Nd,precip,,,timestamp,lats,lons
+lowres_SA_2003,RH700,RH850,,,,LTS,whoi_sst,w500,tot_aod,l_re,,cod,cwp,Nd,precip,,,timestamp,lats,lons
+lowres_SEP_2003,RH700,RH850,,,,LTS,whoi_sst,w500,tot_aod,l_re,,cod,cwp,Nd,precip,,,timestamp,lats,lons
+lowres_SEP_2003_latslons,RH700,RH850,,,,LTS,whoi_sst,w500,tot_aod,l_re,,cod,cwp,Nd,precip,,,timestamp,lats,lons
+
