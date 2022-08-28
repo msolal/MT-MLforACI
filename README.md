@@ -21,7 +21,7 @@ The original code base can be found here: [overcast](https://github.com/anndvisi
 
 ```.sh
 git clone git@github.com:msolal/MT-MLforACI.git
-cd MLforACI
+cd MT-MLforACI
 conda env create -f environment.yml
 conda activate overcast
 pip install -e .
