@@ -4,7 +4,7 @@ Master's Thesis: Machine Learning Approaches for Estimating the Causal Effects o
 This repository contains my work for my Master Thesis, where I studied ML approaches for studying aerosol cloud interactions (ACI)
 
 | **[Abstract](#abstract)**
-| **[Citation of Original Paper](#citation)**
+| **[Citation](#citation)**
 | **[Installation](#installation)**
 | **[Data](#data)**
 | **[Runs](#runs)**
@@ -14,13 +14,14 @@ This repository contains my work for my Master Thesis, where I studied ML approa
 ## Citation
 
 My work is based on the following paper: [Scalable Sensitivity and Uncertainty Analyses for Causal-Effect Estimates of Continuous-Valued Interventions](https://arxiv.org/abs/2204.10022). 
+
 The original code base can be found here: [overcast](https://github.com/anndvision/overcast). 
 
 ## Installation
 
 ```.sh
 git clone git@github.com:msolal/MT-MLforACI.git
-cd MLforACI
+cd MT-MLforACI
 conda env create -f environment.yml
 conda activate overcast
 pip install -e .
