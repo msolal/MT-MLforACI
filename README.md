@@ -11,6 +11,15 @@ This repository contains my work for my Master Thesis, where I studied ML approa
 
 ## Abstract
 
+Aerosol cloud interactions (ACI) include various effects that result from aerosols entering a cloud, acting as cloud condensation nuclei (CCN) and affecting cloud properties.
+In general, an increase in aerosol concentration results in smaller droplet sizes which leads to larger, brighter, longer-lasting clouds that reflect more sunlight and contribute to cooling the earth. 
+The strength of the effect is however heterogeneous over meteorological regimes, making ACI the most uncertain driver of radiative forcing due to human activities, and the largest source of uncertainty in our current climate models. 
+In our work, we estimate ACI from observational data through the potential outcomes approach to causal inference. 
+Based on \cite{jessonScalableSensitivityUncertainty2022}, we use machine learning approaches to estimate plausible ranges for the causal effects of aerosols on clouds. 
+Specifically, using the proposed method and models, we look at satellite data from different regions, resolutions, and timescales to study how different levels of confounding affect uncertainty bounds.  
+To a larger extent, our work contributes to understanding the climatological impacts of human emissions on cloud properties. 
+We highlight the importance of uncertainty and assumptions to correctly assess interventions that aim to reduce global warming like geoengineering.
+
 ## Citation
 
 My work is based on the following paper: [Scalable Sensitivity and Uncertainty Analyses for Causal-Effect Estimates of Continuous-Valued Interventions](https://arxiv.org/abs/2204.10022). 
