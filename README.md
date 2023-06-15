@@ -18,6 +18,8 @@ We highlight the importance of uncertainty and assumptions to correctly assess i
 
 My work is based on the following paper: [Scalable Sensitivity and Uncertainty Analyses for Causal-Effect Estimates of Continuous-Valued Interventions](https://arxiv.org/abs/2204.10022). 
 
+It is the basis for the paper: [Using uncertainty-aware machine learning models to study aerosol-cloud interactions](https://arxiv.org/abs/2301.11921).
+
 The original code base can be found here: [overcast](https://github.com/anndvision/overcast). 
 
 ## Installation
